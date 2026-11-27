@@ -64,3 +64,8 @@ background: #ffffff;
 color: #b0301c;  
 border: 1px solid #b0301c; 
 padding: 4px 8px;   font-size: 12px; }  
+.version {   
+  margin: 16px 0 0;   
+  font-size: 12px;   
+  color: #999999;   
+  text-align: right; } 
